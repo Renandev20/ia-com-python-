@@ -1,2 +1,2 @@
 # ia-com-python-
-Um projeto de uma ia com pyhton. 
+Um projeto de uma assistente simples com python.
